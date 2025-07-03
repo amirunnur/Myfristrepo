@@ -1,0 +1,14 @@
+html{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+.heading{
+    color: blue;
+}
+.blog{
+    margin: 10px;
+    padding: 10px;
+    
+}
